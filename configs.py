@@ -34,7 +34,7 @@ Send me any file I will save it in my Database. Also works for channel. Add me t
 
 👥 **Support Group:** [DeepSea](https://t.me/dummypr)
 
-📢 **Updates Channel:** [DeepSea](https://t.me/dummypr)
+📢 **Updates Channel:** [DeepSea](https://t.me/+KuDplZMSllI2NjZh)
 """
 	ABOUT_DEV_TEXT = f"""
 🧑🏻‍💻 **Developer:** @JAsuran123
